@@ -7,7 +7,7 @@ torch
 whatimage
 streamlit
 Pillow
-opencv-python
+opencv-contrib-python
 pyaml
 libgl1
-opencv-contrib-python
+
