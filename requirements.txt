@@ -9,3 +9,5 @@ streamlit
 Pillow
 opencv-python
 pyaml
+libgl1
+opencv-contrib-python
